@@ -62,6 +62,7 @@ export default function Navbar() {
       { name: "Production", href: "#", current: false },
       { name: "building", href: "#", current: false },
       { name: "OPE", href: "#", current: false },
+      { name: "Engineering One", href: "#", current: false },
     ];
   }
 
